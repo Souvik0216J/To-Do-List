@@ -1,1 +1,13 @@
-# To-Do-List
+# To-Do List
+
+This is a simple to-do list application built using HTML, CSS, and JavaScript.
+
+## Features
+
+- Add tasks to your to-do list.
+- Mark tasks as completed by clicking on them.
+- Remove tasks from the list.
+- Toggle between light and dark mode.
+
+## Credits
+-Icons provided by Boxicons.
