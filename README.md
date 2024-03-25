@@ -15,5 +15,6 @@ This is a simple to-do list application built using HTML, CSS, and JavaScript.
 - Start adding tasks to your to-do list.
 
 ## Credits
+
 -Icons provided by Boxicons.
 -Pictures taken from Google.
