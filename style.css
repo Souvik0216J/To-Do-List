@@ -40,7 +40,10 @@
     border: 2px solid #081b29;
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
-    border-radius: 20px;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
 }
 
 .todo h2 {
@@ -73,7 +76,7 @@
     border: none;
     outline: none;
     padding: 16px 50px;
-    background: #ff5945;
+    background: #f33757;
     color: #fff;
     font-size: 20px;
     cursor: pointer;
@@ -82,7 +85,7 @@
 }
 
 .row button:hover {
-    background: #fe453b;
+    background: #f7143a;
 }
 
 ul li {
